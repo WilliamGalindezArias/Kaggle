@@ -1,0 +1,2 @@
+# Kaggle
+Prague - Kaggle challenges
